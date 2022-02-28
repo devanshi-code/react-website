@@ -1,1 +1,0 @@
-{"version":3,"sources":["Button.js"],"names":[],"mappings":";;AAAA;;AACA","sourcesContent":["import React from 'react';\r\nimport './Button.css';"],"file":"Button.dev.js"}
